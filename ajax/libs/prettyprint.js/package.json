@@ -1,6 +1,6 @@
 {
   "name": "prettyprint.js",
-  "filename": "prettyPrint.min.js",
+  "filename": "prettyprint.min.js",
   "version": "1.03.0",
   "description": "prettyPrint.js is an in-browser JavaScript variable dumper, similar in functionality to ColdFusion's cfdump tag.",
   "repository": {
